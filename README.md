@@ -1,8 +1,8 @@
 # EMPS
 陽解法EMPSのpyhonコード　　
-計算速度は早くなくあくまでお試し用
+計算速度は速くなく、あくまでお試し用
 パラメータはpara.pyで変更可能
-# input.grid
+# input.gridの形式
 時間
 <br>
 粒子数
